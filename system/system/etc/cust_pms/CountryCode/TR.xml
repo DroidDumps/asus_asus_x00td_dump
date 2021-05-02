@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <job_id />
+  <config_version>2</config_version>
+  <string-array name="hidden_system_packages">
+    <item>com.atok.mobile.im.asus.service</item>
+    <item>com.shopee.th</item>
+    <item>com.yandex.browser</item>
+    <item>id.co.babe</item>
+    <item>jp.ebookjapan.ebireader</item>
+    <item>jp.ebookjapan.apptoebookjapan</item>
+    <item>ru.yandex.searchplugin</item>
+  </string-array>
+</resources>
